@@ -1,0 +1,19 @@
+{
+  "name": "Sodl out",
+  "symbol": "SODL",
+  "image": "0.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "F2eYiFsVehoZh3sesnKD8e7hDsQv57NtPUjyCW7qTS6i",
+        "share": 100
+      }
+    ]
+  }
+}
